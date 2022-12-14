@@ -1,0 +1,7 @@
+                Library Management System 
+                   Returned By: Kush
+    Date: 2022-11-27    Time:15:08:08.783001
+
+S.N.		Bookname		Cost
+3		Programming With Python		$1.5
+					Total: $1.5
